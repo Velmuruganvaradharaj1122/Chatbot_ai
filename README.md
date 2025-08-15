@@ -53,6 +53,6 @@ Click 🌙 to toggle dark mode.
 
 📸 Preview
 <img width="1919" height="1034" alt="Screenshot 2025-08-16 002655" src="https://github.com/user-attachments/assets/0ecdbbd7-8ae4-410c-baa6-ea243b5be503" />
-Bot_sample image 
+**Bot_sample image** 
 <img width="590" height="628" alt="Screenshot 2025-08-16 002748" src="https://github.com/user-attachments/assets/e09a85aa-a028-4e00-bb0b-5d72479dbfc9" />
 
