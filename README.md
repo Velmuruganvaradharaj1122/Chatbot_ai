@@ -37,7 +37,7 @@ It includes **dark mode**, **voice input**, **export chat**, **clear chat**, **a
 3 **Open index.html in your browser**
 No server setup required – it runs locally.
 
-🖥️ Usage
+## 🖥️ Usage
 
 Click on the 💬 chat icon to open the chatbot.
 
@@ -51,11 +51,11 @@ Click 🗑️ to clear all messages.
 
 Click 🌙 to toggle dark mode.
 
----
-📸 Preview
+
+## 📸 Preview
 <img width="1919" height="1034" alt="Screenshot 2025-08-16 002655" src="https://github.com/user-attachments/assets/0ecdbbd7-8ae4-410c-baa6-ea243b5be503" />
----
+
 <img width="590" height="628" alt="Screenshot 2025-08-16 002748" src="https://github.com/user-attachments/assets/e09a85aa-a028-4e00-bb0b-5d72479dbfc9" />
----
+
 <img width="526" height="565" alt="Screenshot 2025-08-16 003202" src="https://github.com/user-attachments/assets/4b4fdbd8-d7ba-4b9c-9a61-21e449d16483" />
----
+
