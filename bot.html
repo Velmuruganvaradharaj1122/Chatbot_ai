@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Velmurugan">
+  <title>Chatbot</title>
+  <link rel="stylesheet" href="bot.css" />
+</head>
+<body>
+
+  <!-- Chat Icon -->
+  <div id="chat-icon" class="chat-icon">💬</div>
+
+  <!-- Chatbot Window -->
+  <div id="chat-container" class="chat-container hidden">
+    <div class="chat-header">
+      Chatbot
+      <button class="toggle-dark" onclick="toggleDarkMode()">🌙</button>
+    </div>
+
+    <div id="chat-box" class="chat-box"></div>
+
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="Type your message..." />
+      <button onclick="sendMessage()">Send</button>
+      <button onclick="startVoiceInput()">🎤</button>
+      <button onclick="exportChat()">📄</button>
+      <button onclick="clearChat()">🗑️</button>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 Velmurugan. Built with ❤️ using HTML, CSS, and JavaScript.
+  </footer>
+
+  <!-- Script -->
+  <script src="bot.js"></script>
+</body>
+</html>
